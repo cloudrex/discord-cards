@@ -4,7 +4,8 @@
     "description": "A cards game for Discord",
     "main": "dist/app.js",
     "scripts": {
-        "start": "node dist/app.js"
+        "start": "npm run build && node dist/app.js",
+        "build": "tsc"
     },
     "keywords": [
         "discord"
