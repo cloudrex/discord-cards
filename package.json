@@ -1,0 +1,14 @@
+{
+    "name": "cards-discord",
+    "version": "1.0.0",
+    "description": "A cards game for Discord",
+    "main": "dist/app.js",
+    "scripts": {
+        "start": "node dist/app.js"
+    },
+    "keywords": [
+        "discord"
+    ],
+    "author": "CloudRex <cloudrex@outlook.com>",
+    "license": "MIT"
+}
