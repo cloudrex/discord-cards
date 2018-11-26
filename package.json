@@ -10,5 +10,8 @@
         "discord"
     ],
     "author": "CloudRex <cloudrex@outlook.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "@cloudrex/forge": "^1.2.5-beta.0"
+    }
 }
