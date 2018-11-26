@@ -1,3 +1,6 @@
+// Environment variables
+require("dotenv").config();
+
 import {Bot, Settings} from "@cloudrex/forge";
 import path from "path";
 
